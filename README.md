@@ -1,4 +1,4 @@
-# pychon
+# python
 Python Leading Repository
 
 ## 자료형
